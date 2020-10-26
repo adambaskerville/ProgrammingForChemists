@@ -1,0 +1,35 @@
+\documentclass{standalone}
+%\usepackage[a6paper, top=1mm, bottom=1mm, left=1mm, right=1mm, paperwidth=2in, paperheight=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{nicematrix}
+\definecolor{darkpastelgreen}{rgb}{0.01, 0.75, 0.24}
+\definecolor{darkpastelblue}{rgb}{0.47, 0.62, 0.8}
+\definecolor{darkpastelred}{rgb}{0.76, 0.23, 0.13}
+\definecolor{pastelblue}{rgb}{0.68, 0.78, 0.81}
+\definecolor{pastelgreen}{rgb}{0.47, 0.87, 0.47}
+\definecolor{pastelorange}{rgb}{1.0, 0.7, 0.28}
+
+\begin{document}
+\thispagestyle{empty}
+
+\NiceMatrixOptions%
+{code-for-last-row = \scriptstyle ,
+code-for-last-col = \scriptstyle }
+$A = \begin{bNiceMatrix}[last-row=4,last-col=4]
+0,0 & 0,1 & 0,2 & \textbf{0} \\
+1,0 & 1,1 & 1,2 & \textbf{1} \\
+2,0 & 2,1 & 2,2 & \textbf{2} \\
+\textbf{0} & \textbf{1} & \textbf{2}
+\end{bNiceMatrix}$
+\vspace{2cm}
+arr = 
+\begin{NiceTabular}{|c|c|c|}[code-before =
+    \rectanglecolor{blue!15}{2-3}{3-3}, row-height = 1cm]
+    \hline
+     0,0 & 0,1 & 0,2 \\ \hline
+     1,0 & 1,1 & 1,2 \\ \hline
+     2,0 & 2,1 & 2,2 \\ \hline
+\end{NiceTabular}
+
+\end{document}
+
