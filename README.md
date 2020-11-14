@@ -14,4 +14,4 @@ If you have any feedback from taking the course then feel free to contact me so 
 
 Click the link below to begin:
 
-https://mybinder.org/v2/gh/adambaskerville/ProgrammingForChemists/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adambaskerville/ProgrammingForChemists/HEAD)
