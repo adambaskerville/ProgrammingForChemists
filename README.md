@@ -1,6 +1,6 @@
 # Programming for Chemists
 
-This course is designed to be an introduction to the Python programming languages and how it is applied in solving real world scientific problems. If you have wanted to learn how to program or how to apply it to your own work then hopefully this course can be of assistance. The sessions are as follows:
+This course is designed to be an introduction to the Python programming language and how it can be applied to solve real world scientific problems. If you have wanted to learn how to program or how to apply it to your own work then hopefully this course can be of assistance. The sessions are as follows:
 
 1. Introduction and Jupyter Notebook.
 2. Key data types and uses.
