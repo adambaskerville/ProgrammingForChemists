@@ -4,3 +4,4 @@ sympy
 pandas
 matplotlib
 tensorflow
+deepchem
