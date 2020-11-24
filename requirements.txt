@@ -4,5 +4,4 @@ sympy
 pandas
 matplotlib
 tensorflow
-rdkit
 deepchem
