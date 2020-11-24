@@ -10,6 +10,6 @@ dependencies:
         - seaborn
         - matplotlib
         - rdkit
-        - deepchem
-        - tensorflow
+        - deepchem==2.3.0
+        - tensorflow==1.14
         - joblib
