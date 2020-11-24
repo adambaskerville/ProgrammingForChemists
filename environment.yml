@@ -12,5 +12,4 @@ dependencies:
         - rdkit
         - deepchem
         - tensorflow
-        - sklearn.externals
         - joblib
