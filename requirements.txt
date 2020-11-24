@@ -3,5 +3,6 @@ scipy
 sympy
 pandas
 matplotlib
+seaborn
 tensorflow
 deepchem
