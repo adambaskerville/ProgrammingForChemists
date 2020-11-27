@@ -15,3 +15,6 @@ If you have any feedback from taking the course then feel free to contact me so 
 Click the link below to begin:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adambaskerville/ProgrammingForChemists/HEAD)
+
+There is also a message board for people to discuss the course together:
+[![Gitter](https://badges.gitter.im/ProgrammingForChemists/community.svg)](https://gitter.im/ProgrammingForChemists/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
