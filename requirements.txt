@@ -1,8 +1,0 @@
-numpy==1.18.5
-scipy
-sympy
-pandas
-matplotlib
-seaborn
-tensorflow
-deepchem
