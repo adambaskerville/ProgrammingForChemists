@@ -1,6 +1,7 @@
 name: ProgChem
 channels:
         - conda-forge
+        
 dependencies:
         - numpy==1.16.4
         - scipy
@@ -14,3 +15,4 @@ dependencies:
         - tensorflow==1.14
         - joblib
         - opencv
+        - gast==0.3.3
