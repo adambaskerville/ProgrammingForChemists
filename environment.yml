@@ -15,4 +15,4 @@ dependencies:
         - tensorflow==1.14
         - joblib
         - opencv
-        - gast==0.3.3
+        - gast==0.2.2
