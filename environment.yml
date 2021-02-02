@@ -3,6 +3,7 @@ channels:
         - conda-forge
         
 dependencies:
+        - jupyterthemes
         - numpy==1.16.4
         - scipy
         - sympy
