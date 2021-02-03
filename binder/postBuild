@@ -1,4 +1,4 @@
 #!/bin/bash
 set -m
 
-exec 'theme.py'
+python theme.py
