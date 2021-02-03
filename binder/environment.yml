@@ -1,0 +1,18 @@
+name: ProgChem
+channels:
+        - conda-forge
+        
+dependencies:
+        - numpy==1.16.4
+        - scipy
+        - sympy
+        - pandas
+        - scikit-learn==0.20.3
+        - seaborn
+        - matplotlib==3.1.0
+        - rdkit
+        - deepchem==2.3.0
+        - tensorflow==1.14
+        - joblib
+        - opencv
+        - gast==0.2.2
