@@ -7,8 +7,8 @@ This course is designed to be an introduction to the Python programming language
 3. Control Flow Statements.
 4. Basic NumPy and arrays. 
 5. File input/output using pandas and plotting using matplotlib.
-6. Physical chemistry using NumPy, SciPy and Sympy.
-7. How machine learning is changing science.
+6. Physical chemistry in Python
+7. Hands on machine learning for chemists.
 
 If you have any feedback from taking the course then feel free to contact me so I can continually improve it.
 
