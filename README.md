@@ -1,4 +1,4 @@
-# Programming for Chemists  (Still under development)
+# Programming for Chemists
 
 This course is designed to be an introduction to the Python programming language and how it can be applied to solve real world scientific problems. If you have wanted to learn how to program or how to apply it to your own work then hopefully this course can be of assistance. The sessions are as follows:
 
@@ -14,11 +14,11 @@ If you have any feedback from taking the course then feel free to contact me so 
 
 Click the link below to begin:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adambaskerville/ProgrammingForChemists/HEAD)
-
-If Binder is not stable enough, try Google Colab:
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adambaskerville/ProgrammingForChemists/blob/master/)
+
+If Google Colab is not stable enough, try Binder (will take longer to load):
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adambaskerville/ProgrammingForChemists/HEAD)
 
 There is also a message board for people to discuss the course together:
 
