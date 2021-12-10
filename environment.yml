@@ -11,7 +11,7 @@ dependencies:
         - seaborn
         - matplotlib==3.1.0
         - rdkit
-        - deepchem
+        - deepchem==2.3.0
         - joblib
         - opencv
         - gast==0.2.2
